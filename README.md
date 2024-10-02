@@ -2,5 +2,6 @@
 - 👀 I’m interested in Programming and Development
 - 🌱 I’m currently learning Data Structures and Doing B.C.A(bachelor of computer application)
 - 📫 How to reach me
+- linkedin :- www.linkedin.com/in/jai-gobind-pal-singh-982905306/
 - Leetcode :- https://leetcode.com/u/Jai_Gobind_Pal_Singh/
 - Skills :- python,C++,C language,Data Structures,Algorithms,Communication skills
