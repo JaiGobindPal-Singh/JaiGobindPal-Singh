@@ -6,7 +6,7 @@ I'm a Computer Science student at D.A.V. College. I have a passion for technolog
   <h3>Skills -></h3>
   <b>Languages: </b>JavaScript,TypeScript, Python, C++, C, HTML & CSS
   <br>
-  <b>Technologies: </b>React.js, MongoDB, Express.js, Node.js, Tailwind CSS, ejs templates
+  <b>Technologies: </b>React.js, MongoDB, Express.js, Node.js, Tailwind CSS, AI integration
   <br>
   <b>Other Skills: </b>Data Structures, 10 Key typing, Communication
   <br>
