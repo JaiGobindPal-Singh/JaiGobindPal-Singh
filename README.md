@@ -4,7 +4,7 @@ I'm a Computer Science student at D.A.V. College. I have a passion for technolog
 </h3>
 <div>
   <h3>Skills -></h3>
-  <b>Technologies: </b>MERN Stack( MongoDB, Express.js, React.js, Node.js ), Tailwind CSS, AI integration
+  <b>Technologies: </b>MERN Stack( MongoDB, Express.js, React.js, Node.js ), Tailwind CSS, AI integration, IOT
   <br>
   <b>Languages: </b>JavaScript,TypeScript, Python, C++, C, HTML & CSS
   <br>
